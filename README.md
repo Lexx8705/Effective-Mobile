@@ -32,6 +32,3 @@ curl http://localhost
 ```
 Hello from Effective Mobile!
 ```
-Effective Mobile - тестовое задание
-
----
